@@ -5,11 +5,11 @@ Proper implementation of Play All and Follow buttons.
 Proper implementation of Recently Played queue.
 Proper implementation of Similar Artists queue.
 Proper implementation of dedicated artist playlist.
-![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/cc1f3c5c-03c6-4ebd-bad8-aae1ba31696c)
+![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/53fdd3f0-818b-4efd-a6d0-82f399324619)
 Single Playlist Screen: Each section of should be implemented in its entirety as explained through the images provided, avoid misalignments and overflows.
 HOME SCREEN CAROUSEL
 Three or more carousel cards/tiles must be present.
-![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/c635f217-5cd8-44f9-875e-4fbee214d13c)
+![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/295fc0d9-9cc3-4508-bc6f-ac76d531162f)
 Functionality to cause transition between images should be present. (For example, Buttons at bottom, Next and Previous buttons, Draggable images)
 RESPONSIVITY
 Entire Website should not break at >992px . (Desktop View)
@@ -17,7 +17,7 @@ Website should not break at <992px and >600px. (Tablet View)
 Website should not break at <600px. (Mobile View)
 ASIDE QUEUE
 Favourite(Like) button for songs should be implemented.
-![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/ada6fd52-172e-49a5-ac80-fa9775d9d4d5)
+![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/fbed96dd-05cf-4626-8044-e3999494ae7a)
 Playlist dropdown lightbox should be implemented.
 HOME SCREEN
 Main section and Queue section should vertically aligned in an approximate ratio of 3:1.
@@ -25,11 +25,11 @@ Each section should have a good layout with proper arranging of individual eleme
 Proper implementation of Latest English and Latest Hindi Section.
 Proper implementation of Music Stations Section
 Proper implementation of Popular Artist Section.
-![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/51305a94-6477-411a-b258-439a8af672b5)
+![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/7e8d1fb6-e3b4-4c93-80eb-38de39df7dfd)
 Proper implementation of Latest Release Section.
 Proper implementation of navbar. (should include Navbar Brand, Search functionality, Notification Center, and User Display Picture)
 CODE QUALITY AND COMMENTS
-![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/53f5f961-9534-40a6-9b7f-7dd4b8262af2)
+![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/0cb7b01f-0bf5-40d0-a423-554e8de0fc55)
 
 Usage of proper semantic tags wherever required instead of divs. (i.e. header, main, aside, footer, etc.)
 Proper Commenting in HTML and CSS to make the code understandable and maintanable.
@@ -44,7 +44,8 @@ Simple implementation of the inbuilt browser music player should not be present,
 Animations should be present.
 Should have play/pause and volume adjustment functionality.
 INNOVATION
-![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/20afbb9b-d605-4002-ac38-e1e8cdebc4c1)
+![image](https://github.com/abhishekvikram19/Abhishek-s-Studio/assets/24250895/244b01eb-2fd3-4e11-8655-b1a381850605)
+
 
 A different theme than the given theme should be implemented.
 Few innovations in terms of functionality to the given basic template must be present.
